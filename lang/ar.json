@@ -1,0 +1,1099 @@
+{
+    "------------ Email templates ----------": "",
+    "We are please to welcome you to Saudi journalists' association": "يسعدنا أن نرحب بكم في هيئة الصحفيين السعوديين",
+    "Hey": "مرحباً",
+    "Page Not Found": "الصفحة غير موجودة",
+    "Oops! 😖 The requested URL was not found on this server": "أُووبس! 😖 لم يتم العثور على عنوان URL المطلوب على هذا الخادم",
+    "Back to home": "العودة إلى الرئيسية",
+    "--------------- Dashboard -------------": "",
+    "Control the roles and powers of controlling those who manage the site.": "التحكم في الأدوار وصلاحيات التحكم من هم بإدارة الموقع.",
+    "Adding, modifying or deleting accounts for managing the site.": "إضافة او تعديل او حذف الحسابات الخاصة بادارة الموقع.",
+    "Managing the members involved in the Saudi Journalists Association.": "إدارة الأعضاء المشتركين في هيئة الصحفيين السعوديين.",
+    "Managing the subscribers involved in the Saudi Journalists Association.": "إدارة المشتركين في هيئة الصحفيين السعوديين.",
+    "Managing the volunteers involved in the Saudi Journalists Association.": "إدارة المتطوعين في هيئة الصحفيين السعوديين.",
+    "Events and training courses participating in the Saudi Journalists Association": "الفعاليات والدورات التدريبية المشاركة على هيئة الصحفيين السعوديين",
+    "Articles and news section of the Association": "الأخبار والقسم الإخباري الخاص بالهيئة",
+    "Technical support and problems solutions": "الدعم الفني وحل المشكلات",
+    "--------------- Aside -------------": "",
+    "Dashboard": "لوحة التحكم",
+    "Roles & moderators": "الأدوار والمدراء",
+    "Roles & permissions": "الأدوار والصلاحيات",
+    "Moderators": "المدراء",
+    "Notifications": "الإشعارات",
+    "Mark all as read": "قراءة الجميع",
+    "Mark as read": "تحديد مقروء",
+    "You don't have any unseen notifications": "ليس لديك أي إشعارات جديدة",
+    "--------------- Admin Login -------------": "",
+    "Login": "تسجيل الدخول",
+    "Sign in": "تسجيل الدخول",
+    "SJU": "هيئة الصحفيين",
+    "Saudi Journalists association": "هيئة الصحفيين السعوديين",
+    "Saudi journalists association": "هيئة الصحفيين السعوديين",
+    "Welcome to Journalists association": "مرحبا في هيئة الصحفيين",
+    "Username": "اسم المستخدم",
+    "Password": "كلمة المرور",
+    "Enter your username": "أدخل اسم المستخدم",
+    "Enter your password": "أدخل كلمة المرور",
+    "Remember Me": "تذكرني",
+    "Log Out": "تسجيل خروج",
+    "Roles": "الأدوار",
+    "Site admin": "إدارة الموقع",
+    "Branch manager": "مدير فرع",
+    "News editor": "محرر أخبار",
+    "Your account has been disabled. Please contact adminstrators.": "تم إلفاء تفعيل حسابك، برجاء التواصل مع المسئولين.",
+    "--------------- Site options -------------": "",
+    "Here you can find and modify the options used over the website": "هنا بإمكانك رؤية وتعديل كل الخيارات المستخدمة في الموقع",
+    "SMS sending settings": "اعدادات ارسال رسائل SMS",
+    "Send SMS upon completion of registration": "ارسال SMS عند الانتهاء من التسجيل",
+    "Letter template upon completion of registration": "قالب الرسالة عند الانتهاء من التسجيل",
+    "Send an SMS when completing the information and sending the request": "ارسال SMS عند استكمال المعلومات وارسال الطلب",
+    "Letter template after completing the information and sending the request": "قالب الرسالة بعد استكمال المعلومات وارسال الطلب",
+    "Send an SMS upon approval of the request": "إرسال رسالة نصية قصيرة عند الموافقة على الطلب",
+    "Letter template upon application approval": "قالب الرسالة عند الموافقة على الطلب",
+    "Send an SMS upon refusal of the request": "إرسال رسالة نصية قصيرة عند رفض الطلب",
+    "Letter template upon application refusal": "قالب الرسالة عند رفض الطلب",
+    "Send SMS after payment and membership activation": "ارسال SMS بعد الدفع وتفعيل العضوية",
+    "Message template after payment and membership activation": "قالب الرسالة بعد الدفع وتفعيل العضوية",
+    "Yes": "نعم",
+    "No": "لا",
+    "SMS settings": "اعدادات رسائل الجوال",
+    "Service provider": "مقدم الخدمة",
+    "Available balance": "الرصيد المتاح",
+    "--------------- Roles management -------------": "",
+    "Roles List": "قائمة الأدوار",
+    "A role provided access to predefined menus and features so that depending on the assigned role an administrator can have access to what the user needs.": "يوفر الدور الوصول إلى القوائم والميزات المحددة مسبقًا بحيث يمكن للمسؤول ، بناءً على الدور المعين ، الوصول إلى ما يحتاجه المستخدم.",
+    "Total :count users": "إجمالي :count مستخدمين",
+    "Add New Role": "إضافة دور جديد",
+    "Add role, if it does not exist": "لم تجد الدور المناسب؟ أضف دور جديد",
+    "Add new role": "أضف دور جديد",
+    "Edit role": "تعديل دور",
+    "Role Name": "اسم الدور",
+    "Enter a role name": "أدخل اسم الدور",
+    "Role Permissions": "صلاحيات الدور",
+    "Access": "الوصول",
+    "Select All": "تحديد الكل",
+    "Site options": "خيارات الموقع",
+    "Manage": "إدارة",
+    "Roles management": "إدارة الأدوار",
+    "Admins management": "إدارة المدراء",
+    "Urls management": "إدارة الروابط",
+    "Invitations management": "إدارة الدعوات",
+    "Ads management": "إدارة الإعلانات",
+    "List": "القائمة",
+    "View": "عرض",
+    "Create": "إنشاء",
+    "Edit": "تعديل",
+    "Delete": "حذف",
+    "Save": "حفظ",
+    "Cancel": "إلغاء",
+    "Role created successfully": "تم إنشاء الدور بنجاح",
+    "Role deleted successfully": "تم حذف الدور بنجاح",
+    "Role updated successfully": "تم تعديل الدور بنجاح",
+    "Refused members": "الأعضاء المرفوضين",
+    "Disable / Enable": "إيقاف / تفعيل",
+    "Admin accept": "موافقة أدمن",
+    "Branch approve": "موافقة فرع",
+    "Courses management": "إدارة الفعاليات",
+    "Copy course link": "نسخ رابط الفعالية",
+    "Copy link": "نسخ الرابط",
+    "Url copied": "تم نسخ الرابط",
+    "Templates management": "إدارة القوالب",
+    "Questionnaires management": "إدارة الإستبيانات",
+    "List managers tickets": "عرض تذاكر المدراء",
+    "List members tickets": "عرض تذاكر الأعضاء",
+    "List subscribers tickets": "عرض تذاكر المشتركين",
+    "List volunteers tickets": "عرض تذاكر المتطوعين",
+    "View ticket": "عرض تذكرة",
+    "Delete ticket": "حذف تذكرة",
+    "Studio management": "إدارة الاستوديو",
+    "--------------- Admins management -------------": "",
+    "Total Users": "إجمالي المستخدمين",
+    "Moderators management": "إدارة المدراء",
+    "User": "المستخدم",
+    "Mobile": "الجوال",
+    "Role": "الدور",
+    "Actions": "عمليات",
+    "Showing :start to :end of :total entries": "عرض :start إلى :end من :total مدخلات",
+    "No entries": "لا يوجد مدخلات",
+    "Search...": "بحث...",
+    "Select role": "إختر دور",
+    "Select branch": "إختر الفرع",
+    "Create moderator": "إنشاء مدير",
+    "First name": "الاسم الأول",
+    "Last name": "الاسم الأخير",
+    "Full name": "الاسم بالكامل",
+    "Email": "البريد الإلكتروني",
+    "Branch": "الفرع",
+    "Password confirmation": "تأكيد كلمة المرور",
+    "Details": "التفاصيل",
+    "Export": "تصدير",
+    "Moderator created successfully": "تم إنشاء المدير بنجاح",
+    "Moderator deleted successfully": "تم حذف المدير بنجاح",
+    "Moderator enabled successfully": "تم تفعيل المدير بنجاح",
+    "Moderator disabled successfully": "تم إيقاف المدير بنجاح",
+    "Moderator updated successfully": "تم تعديل المدير بنجاح",
+    "Enabled": "مفعل",
+    "Disabled": "موقوف",
+    "Enable": "تفعيل",
+    "Disable": "إيقاف",
+    "Notify": "إشعار",
+    "Notify all": "إشعار الكل",
+    "Edit moderator": "تعديل مدير",
+    "Notify moderators": "إرسال إشعار للمدراء",
+    "Message": "الرسالة",
+    "Send via": "إرسال عن طريق",
+    "Send to": "إرسال إلى",
+    "SMS": "رسالة نصية",
+    "In-app notification": "إشعار في الموقع",
+    "Select": "تحديد",
+    "All Moderators": "كل المدراء",
+    "News editors": "محرري الأخبار",
+    "Site admins": "مدراء الموقع",
+    "Branch managers": "مدراء الفروع",
+    "Select moderators": "تحديد المدراء",
+    "Send": "إرسال",
+    "Notification is being sent": "يتم الآن إرسال الإشعار",
+    "--------------- Employees management -------------": "",
+    "Employees management": "إدارة الموظفين",
+    "Create employee": "إنشاء موظف",
+    "Employee created successfully": "تم إنشاء الموظف بنجاح",
+    "Employee": "موظف",
+    "Edit employee": "تعديل موظف",
+    "Employee updated successfully": "تم تعديل الموظف بنجاح",
+    "Employee deleted successfully": "تم حذف الموظف بنجاح",
+    "Employees": "الموظفين",
+    "Edit permissions": "تعديل الصلاحيات",
+    "Permissions": "الصلاحيات",
+
+    "--------------- Members management -------------": "",
+    "All members": "كل الأعضاء",
+    "Branch approval": "موافقة الفرع",
+    "Admin approval": "موافقة الأدمن",
+    "Members management": "إدارة الأعضاء",
+    "Membership Status": "حالة العضوية",
+    "Membership number": "رقم العضوية",
+    "Member created successfully": "تم إنشاء العضو بنجاح",
+    "Member updated successfully": "تم تعديل العضو بنجاح",
+    "Member deleted successfully": "تم حذف العضو بنجاح",
+    "Disapprove": "إلغاء الموافقة",
+    "Member file": "ملف العضو",
+    "Registration date": "تاريخ التسجيل",
+    "Membership form": "إستمارة العضوية",
+    "Go to invoice": "ذهاب للفاتورة",
+    "Documents": "المستندات",
+    "Show": "عرض",
+    "Name": "الاسم",
+    "Year": "العام",
+    "Create member": "إنشاء عضو",
+    "Edit member": "تعديل عضو",
+    "Update": "تحديث",
+    "Members waiting branch approval": "الأعضاء بإنتظار موافقة الفرع",
+    "Members waiting admin approval": "الأعضاء بإنتظار موافقة الأدمن",
+    "Approve": "موافقة",
+    "Refuse": "رفض",
+    "Refusing :name 's membership": "رفض عضوية :name",
+    "Please choose refusal reason": "برجاء إختيار سبب الرفض",
+    "Refusal reason": "سبب الرفض",
+    "Not fulfilling the conditions": "غير مستوفي للشروط",
+    "Other": "أخرى",
+    "Accept": "موافقة",
+    "Cancel refuse": "إلغاء الرفض",
+    "Unrefuse": "إلغاء الرفض",
+    "Disapprove / Unrefuse": "إلغاء الموافقة / إلغاء الرفض",
+    "After refuse": "بعد الرفض",
+    "Notify members": "إرسال إشعار للأعضاء",
+    "Set paid": "تحديد مدفوع",
+    "Payment attempts": "محاولات الدفع",
+    "Payment attempt": "محاولة للدفع",
+    "--------------- Invoices management -------------": "",
+    "Subscriptions invoices": "فواتير الإشتراكات",
+    "Invoices": "الفواتير",
+    "Date": "التاريخ",
+    "View invoice": "عرض فاتورة",
+    "INVOICE": "فاتورة",
+    "Invoice": "فاتورة",
+    "Invoice To": "فاتورة لـ",
+    "Payment": "الدفع",
+    "Payment ref": "معرف الدفع",
+    "Item": "البند",
+    "Delivery fees": "رسوم التوصيل",
+    "Total": "الإجمالي",
+    "PAID": "مدفوعة",
+    "--------------- Member transfers -------------": "",
+    "Member transfers": "نقل الأعضاء",
+    "Transfer member": "نقل عضو",
+    "Branch from": "من الفرع",
+    "Branch to": "إلى الفرع",
+    "Requester": "مقدم الطلب",
+    "Member with this national id doesn't exist": "رقم الهوية غير مرتبط بأي عضو",
+    "Member transfer request created successfully": "تم تسجيل طلب نقل العضو",
+    "Member transfer request approved successfully": "تم موافقة طلب النقل بنجاح",
+
+    "--------------- Subscriber management -------------": "",
+    "Subscribers management": "إدارة المشتركين",
+    "Active subscribers": "المشتركون المفعلون",
+    "Create subscriber": "إضافة مشترك",
+    "Country": "الدولة",
+    "Country key": "مفتاح الدولة",
+    "Subscriber created successfully": "تم إنشاء المشترك بنجاح",
+    "Subscriber updated successfully": "تم تعديل المشترك بنجاح",
+    "Subscriber deleted successfully": "تم حذف المشترك بنجاح",
+    "Edit subscriber": "تعديل مشترك",
+    "Subscriber file": "ملف المشترك",
+    "Enrolled courses": "الفعاليات المشترك بها",
+    "Subscriber enabled successfully": "تم تفعيل المشترك بنجاح",
+    "Subscriber disabled successfully": "تم إلغاء تفعيل المشترك بنجاح",
+    "Notify subscribers": "إشعار المشتركين",
+    "All subscribers": "كل المشتركين",
+    "--------------- Volunteer management -------------": "",
+    "Volunteers management": "إدارة المتطوعين",
+    "Active volunteers": "المتطوعون المفعلون",
+    "Create volunteer": "إضافة متطوع",
+    "Volunteer created successfully": "تم إنشاء المتطوع بنجاح",
+    "Volunteer updated successfully": "تم تعديل المتطوع بنجاح",
+    "Volunteer deleted successfully": "تم حذف المتطوع بنجاح",
+    "Edit volunteer": "تعديل متطوع",
+    "Volunteer file": "ملف المتطوع",
+    "Volunteer didn't attend this course": "المتطوع لم يحضر الفعالية",
+    "Volunteer enabled successfully": "تم تفعيل المتطوع بنجاح",
+    "Volunteer disabled successfully": "تم إلغاء تفعيل المتطوع بنجاح",
+    "Notify volunteers": "إشعار المتطوعين",
+    "All volunteers": "كل المتطوعين",
+    "--------------- Courses management -------------": "",
+    "Courses": "الفعاليات",
+    "Course title": "عنوان الفعالية",
+    "Course number": "رقم الفعالية",
+    "Region": "المكان",
+    "Course date": "تاريخ الفعالية",
+    "Month": "الشهر",
+    "Course": "الفعالية",
+    "Type": "النوع",
+    "Category": "الفئة",
+    "Location": "الموقع",
+    "Course hidden successfully": "تم إخفاء الفعالية",
+    "Course enabled successfully": "تم إتاحة الفعالية",
+    "Course deleted successfully": "تم حذف الفعالية",
+    "Create course": "إنشاء فعالية",
+    "Map link": "رابط الخريطة",
+    "Longitude": "خط الطول",
+    "Latitude": "خط العرض",
+    "Date from": "التاريخ من",
+    "Date to": "التاريخ إلى",
+    "Time from": "الوقت من",
+    "Time to": "الوقت إلى",
+    "Map": "الخريطة",
+    "Days": "الأيام",
+    "Saturday": "السبت",
+    "Sunday": "الأحد",
+    "Monday": "الإثنين",
+    "Tuesday": "الثلاثاء",
+    "Wednesday": "الأربعاء",
+    "Thursday": "الخميس",
+    "Friday": "الجمعة",
+    "Training minutes": "دقائق التدريب",
+    "Course cost": "تكلفة الفعالية",
+    "Passing percentage": "نسبة الاجتياز",
+    "Free": "مجاني",
+    "Paid in full": "مدفوع بالكامل",
+    "Certificate Paid": "مدفوع الشهادة",
+    "Unspecified": "غير محدد",
+    "Fees": "الرسوم",
+    "Currency": "العملة",
+    "Images": "الصور",
+    "Trainer": "المدرب",
+    "Summary": "المختصر",
+    "Content": "المحتوى",
+    "Zoom link": "رابط زوم",
+    "Youtube link": "رابط يوتيوب",
+    "(in minutes) The duration of the preparation period": "(بالدقائق)مدة إنتهاء فترة التحضير",
+    "Seats": "عدد المقاعد",
+    "Electronic": "إلكتروني",
+    "Course created successfully": "تم إنشاء الفعالية بنجاح",
+    "Hidden": "مخفية",
+    "Available": "متاحة",
+    "Registration ended": "إنتهى التسجيل",
+    "Registeration ended for this course": "إنتهى التسجيل لهذه الفعالية",
+    "Postponed": "مؤجلة",
+    "Completed": "مكتملة",
+    "Private": "خاصة",
+    "Edit course": "تعديل الفعالية",
+    "Course updated successfully": "تم تعديل الفعالية بنجاح",
+    "View course": "عرض الفعالية",
+    "Minute": "دقيقة",
+    "Course statistics": "إحصائيات الفعالية",
+    "Users": "مستخدمين",
+    "Total attendance": "إجمالي الحضور",
+    "Passed number": "عدد المجتازين",
+    "Passed": "إجتاز",
+    "Non-Passed number": "عدد غير المجتازين",
+    "Attendance duration": "مدة إنتهاء فترة التحضير",
+    "Attendance link": "رابط التحضير",
+    "Member": "عضو",
+    "Subscriber": "مشترك",
+    "Volunteer": "متطوع",
+    "Didn't pass": "غير مجتاز",
+    "Updated successfully": "تم التعديل بنجاح",
+    "No one registered for this course": "لم يسجل أحد بعد في هذه الفعالية",
+    "Subscriber didn't attend this course": "المشترك لم يحضر الفعالية",
+    "Inactive subscribers": "المشتركون الغير مفعلين",
+    "Inactive volunteers": "المتدربون الغير مفعلين",
+    "Notify course users": "إشعار مستخدمي الفعالية",
+    "Passed users": "المجتازين",
+    "Unpassed users": "الغير مجتازين",
+    "--------------- Templates management -------------": "",
+    "Templates": "القوالب",
+    "Create template": "إنشاء قالب",
+    "Create Template": "إنشاء قالب",
+    "Template": "القالب",
+    "File": "الملف",
+    "Language": "اللغة",
+    "Arabic": "العربية",
+    "English": "الإنجليزية",
+    "Title for male": "اللقب للذكر",
+    "Title for female": "اللقب للأنثى",
+    "Verification code": "كود التحقق",
+    "Without": "بلا",
+    "Top right": "فوق يمين",
+    "Top center": "فوق وسط",
+    "Top left": "فوق يسار",
+    "Bottom right": "تحت يمين",
+    "Bottom center": "تحت وسط",
+    "Bottom left": "تحت يسار",
+    "QR margin top": "هامش الكود لأعلى",
+    "QR margin bottom": "هامش الكود لأسفل",
+    "QR margin left": "هامش الكود لليسار",
+    "QR margin right": "هامش الكود لليمين",
+    "QR horizontal margin": "هامش الكود أفقيا",
+    "QR vertical margin": "هامش الكود رأسيا",
+    "QR size": "حجم الكود",
+    "Preview": "عرض",
+    "Layout options": "خيارات العرض",
+    "Layout": "خيارات العرض",
+    "A4 portrait": "A4 بالطول",
+    "A4 landscape": "A4 بالعرض",
+    "A3 portrait": "A3 بالطول",
+    "A3 landscape": "A3 بالعرض",
+    "Letter portrait": "Letter بالطول",
+    "Letter landscape": "Letter بالعرض",
+    "Add title before name": "إضافة لقب قبل الاسم",
+    "Field name": "اسم الخانة",
+    "Free text": "نص حر",
+    "Course name": "اسم الفعالية",
+    "Trainee name": "اسم المتدرب",
+    "Day": "اليوم",
+    "Corresponding": "الموافق",
+    "Duration": "المدة",
+    "Text": "النص",
+    "Height": "الطول",
+    "Width type": "نوع العرض",
+    "Specify": "تحديد",
+    "Center": "توسيط",
+    "Width": "العرض",
+    "Font size": "حجم الخط",
+    "Font color": "لون الخط",
+    "Font family": "نوع الخط",
+    "Cairo Arabic": "Cairo عربي",
+    "gess Arabic": "gess عربي",
+    "almarai Arabic": "almarai عربي",
+    "tajawal Arabic": "tajawal عربي",
+    "amiri Arabic": "amiri عربي",
+    "xbriyaz Arabic": "xbriyaz عربي",
+    "Pointart Arabic": "Pointart عربي",
+    "Diwani Arabic": "Diwani عربي",
+    "Lemonada Arabic": "Lemonada عربي",
+    "Kufam Arabic": "Kufam عربي",
+    "khayma Arabic": "khayma عربي",
+    "Granada Arabic": "Granada عربي",
+    "Marhey Arabic": "Marhey عربي",
+    "Rakkas Arabic": "Rakkas عربي",
+    "Khayma Arabic": "Khayma عربي",
+    "NotoSans Arabic": "NotoSans عربي",
+    "dejavusans English": "dejavusans إنجليزي",
+    "Add field": "إضافة حقل",
+    "Edit Template": "تعديل القالب",
+    "Template created successfully": "تم إنشاء القالب بنجاح",
+    "Template updated successfully": "تم تعديل القالب بنجاح",
+    "Template deleted successfully": "تم حذف القالب بنجاح",
+    "--------------- Questionnaires management -------------": "",
+    "Questionnaire results": "نتائج الإستبيان",
+    "Create questionnaire": "إنشاء إستبيان",
+    "Questionnaires": "الإستبيانات",
+    "Questionnaire": "الإستبيان",
+    "Inactive": "غير فعال",
+    "Questionnaire created successfully": "تم إنشاء الإستبيان بنجاح",
+    "Questions": "الأسئلة",
+    "Create question": "إنشاء سؤال",
+    "Questionnaire deleted successfully": "تم حذف الإستبيان بنجاح",
+    "Question deleted successfully": "تم حذف السؤال بنجاح",
+    "Questions of": "أسئلة",
+    "Question": "السؤال",
+    "Commentable": "كتابة تعليق",
+    "Answer": "الإجابة",
+    "Color": "اللون",
+    "Order": "الترتيب",
+    "Question created successfully": "تم إنشاء السؤال بنجاح",
+    "Edit question": "تعديل سؤال",
+    "Edit questionnaire": "تعديل إستبيان",
+    "Questionnaire updated successfully": "تم تعديل الاستبيان بنجاح",
+    "Question updated successfully": "تم تعديل السؤال بنجاح",
+    "Nobody registered for the questionnaire yet": "لم يسجل أحد الإستبيان حتي الان",
+    "--------------- Invitations management -------------": "",
+    "Create invitation": "إنشاء دعوة",
+    "Edit invitation": "تعديل دعوة",
+    "Invitation created successfully": "تم إنشاء الدعوة بنجاح",
+    "Invitation updated successfully": "تم تعديل الدعوة بنجاح",
+    "Invitation deleted successfully": "تم حذف الدعوة بنجاح",
+    "Invitation": "الدعوة",
+    "invitation": "دعوة",
+    "Invitations": "الدعوات",
+    "View invitation": "عرض الدعوة",
+    "No one is invited yet": "لا يوجد مدعويين حتى الآن",
+    "Invitation statistics": "إحصائيات الدعوة",
+    "Total invited": "إجمالي المدعويين",
+    "invitation link": "رابط الدعوة",
+    "Welcome message": "رسالة الترحيب",
+    "--------------- Training bag management -------------": "",
+    "Training bag": "الحقيبة التدريبية",
+    "File created successfully": "تم إنشاء الملف بنجاح",
+    "File updated successfully": "تم تعديل الملف بنجاح",
+    "File deleted successfully": "تم حذف الملف بنجاح",
+
+    "--------------- Competitions management -------------": "",
+    "Competitions": "المسابقات",
+    "Create competition": "إنشاء مسابقة",
+    "Edit competition": "تعديل مسابقة",
+    "Competition": "المسابقة",
+    "Competition results": "نتائج المسابقة",
+    "Field": "الحقل",
+    "Field type": "نوع الحقل",
+    "text": "نص",
+    "required": "مطلوب",
+    "date": "تاريخ",
+    "file": "ملف",
+    "Competition created successfully": "تم إنشاء المسابقة بنجاح",
+    "Competition updated successfully": "تم تعديل المسابقة بنجاح",
+    "Competition deleted successfully": "تم حذف المسابقة بنجاح",
+    "Submit": "إرسال",
+    "You submitted successfully": "تم الإرسال بنجاح",
+    "You've already submitted once": "لقد أرسلت هذا النموذج بنجاح",
+    "View competition": "عرض المسابقة",
+    "No one submitted for this competition": "لم يسجل أحد في هذه المسابقة",
+    "Guest": "زائر",
+
+    "------------- News section -----------": "",
+    "Categories": "التصنيفات",
+    "Create category": "إنشاء تصنيف",
+    "Category created successfully": "تم إنشاء التصنيف بنجاح",
+    "Category updated successfully": "تم تعديل التصنيف بنجاح",
+    "Category deleted successfully": "تم حذف التصنيف بنجاح",
+    "News section": "القسم الإخباري",
+    "Articles": "الأخبار",
+    "Pages": "الصفحات",
+    "Pages management": "إدارة الصفحات",
+    "Articles management": "إدارة الأخبار",
+    "Title": "العنوان",
+    "Create page": "إنشاء صفحة",
+    "Edit page": "تعديل صفحة",
+    "Create article": "إنشاء خبر",
+    "Edit article": "تعديل الخبر",
+    "Page title": "عنوان الصفحة",
+    "Page slug": "معرف الصفحة",
+    "Page created successfully": "تم إنشاء الصفحة بنجاح",
+    "Page updated successfully": "تم تعديل الصفحة بنجاح",
+    "Page deleted successfully": "تم حذف الصفحة بنجاح",
+    "Article created successfully": "تم إنشاء الخبر بنجاح",
+    "Article updated successfully": "تم تعديل الخبر بنجاح",
+    "Article deleted successfully": "تم حذف الخبر بنجاح",
+    "Article": "الخبر",
+    "Ad": "الإعلان",
+    "ad": "إعلان",
+    "Ads": "الإعلانات",
+    "Show only image": "عرض الصورة فقط",
+    "Create ad": "إنشاء إعلان",
+    "Edit ad": "تعديل إعلان",
+    "Opens in": "يفتح في",
+    "Same window": "نفس النافذة",
+    "New window": "نافذة جديدة",
+    "Image": "الصورة",
+    "Ad created successfully": "تم إنشاء الإعلان بنجاح",
+    "Ad updated successfully": "تم تحديث الإعلان بنجاح",
+    "Ad deleted successfully": "تم حذف الإعلان بنجاح",
+    "Url created successfully": "تم إنشاء الرابط بنجاح",
+    "Url updated successfully": "تم تحديث الرابط بنجاح",
+    "Url deleted successfully": "تم حذف الرابط بنجاح",
+    "Url": "الرابط",
+    "url": "رابط",
+    "Urls": "الروابط",
+    "Create url": "إنشاء رابط",
+    "Edit url": "تعديل رابط",
+    "Group": "المجموعة",
+    "------------- Studio -----------": "",
+    "Photos library": "مكتبة الصور",
+    "Videos library": "مكتبة الفيديو",
+    "Upload media": "رفع وسائط",
+    "Link": "الرابط",
+    "Upload file": "رفع ملف",
+    "Media uploaded successfully": "تم رفع الوسائط بنجاح",
+    "Media deleted successfully": "تم حذف الوسائط بنجاح",
+    "--------------- Technical Support -------------": "",
+    "Members tickets": "تذاكر الأعضاء",
+    "Branch managers tickets": "تذاكر مدراء الفروع",
+    "Subscribers tickets": "تذاكر المشتركين",
+    "Volunteers tickets": "تذاكر المتطوعين",
+    "Ticket title": "عنوان التذكرة",
+    "Open": "مفتوحة",
+    "Closed": "مغلقة",
+    "Close ticket": "غلق التذكرة",
+    "Open ticket": "فتح التذكرة",
+    "Last update": "آخر تحديث",
+    "ticket updated successfully": "تم تحديث التذكرة بنجاح",
+    "ticket deleted successfully": "تم حذف التذكرة بنجاح",
+    "Ticket created successfully": "تم إنشاء التذكرة بنجاح",
+    "Type your message here": "أكتب رسالتك هنا",
+    "Message sent successfully": "تم إرسال الرسالة بنجاح",
+    "New ticket": "تذكرة جديدة",
+    "Attachment": "مرفق",
+    "Problem solved?": "تم حل المشكلة؟",
+    "Problem didn't solve?": "لم يتم حل المشكلة؟",
+    "--------------- Footer -------------": "",
+    "made with ❤️ by": "صُنع بكل ❤️ بواسطة",
+    "All rights reserved": "جميع الحقوق محفوظة",
+    "-------------- USERS SITE ------------": "",
+    "Home": "الرئيسية",
+    "Log into Saudi journalists association": "دخول هيئة الصحفيين السعوديين",
+    "Subscribers": "المشتركون",
+    "Volunteers": "المتطوعون",
+    "Members": "الأعضاء",
+    "Register": "تسجيل جديد",
+    "Close": "إغلاق",
+    "My account": "حسابي",
+    "News": "الأخبار",
+    "About us": "عن الهيئة",
+    "Honor code": "ميثاق الشرف",
+    "Membership": "العضوية في الهيئة",
+    "Regulations": "اللوائح والأنظمة",
+    "Press in KSA": "الصحافة",
+    "Radio & TV": "الإذاعة والتلفزيون",
+    "Partnership": "شراكات",
+    "About authority": "عن الهيئة",
+    "The Saudi Journalists Association for Professional Performance in the Kingdom of Saudi Arabia was established according to Article No. 27 of the Press Institutions Law by Royal Decree No. (M / 20) on 05/08/1422 AH, and its regulations were approved at the first meeting of the Association, which was held on the date corresponding to 4/19 / 1425 AH corresponding to 7/7/2004 Minister of Culture and Information, these regulations are in accordance with Resolution No. (M / F / 383) dated 11/8/1425 AH. The establishment of the foundation stems from a real desire to serve membership in the Kingdom of Saudi Arabia.": "تأسست هيئة الصحفيين السعوديين لخدمة الأهداف المهنية للصحفيين في المملكة العربية السعودية بموجب المادة رقم “27” من نظام المؤسسات الصحفية الصادر بالمرسوم الملكي رقم (م/20) بتاريخ 08/05/1422هـ، وتم إقرار لائحتها الأساسية في الاجتماع الأول للجمعية العمومية الذي انعقد بتاريخ 19/4/1425هـ الموافق 7/7/2004م، وتم اعتماد معالي وزير الثقافة والاعلام هذه اللائحة بموجب القرار رقم (م/و/383) بتاريخ 11/8/1425هـ. وينطلق تأسيس الهيئة من رغبة حقيقية في خدمة الأهداف المهنية للصحفيين في المملكة العربية السعودية.",
+    "Read more": "اقرأ المزيد",
+    "Media center": "المركز الإعلامي",
+    "More": "المزيد",
+    "Uncategorized": "عام",
+    "Studio": "الاستديو",
+    "All": "الكل",
+    "Photos": "الصور",
+    "Videos": "الفيديو",
+    "Photo": "صورة",
+    "Video": "فيديو",
+    "Regulations and events": "اللوائح والأنظمة",
+    "Events": "الفعاليات",
+    "The basic bylaw of the Saudi Journalists Association": "اللائحة الأساسية لهيئة الصحفيين السعوديين",
+    "1.5 Miga bytes": "1.5 ميجا بايت",
+    "Authority membership": "عضوية الهيئة",
+    "Everyone who practices journalistic work has the right to apply for membership in the commission": "يحق لكل من يمارس عملاً صحفياً التقدم بطلب الانتساب إلى عضوية الهيئة",
+    "Apply for a membership": "طلب عضوية هيئة الصحفيين",
+    "Conditions for applying for membership": "شروط التقدم للعضوية",
+    "Full-time member": "العضو المتفرغ",
+    "Full-time members": "أعضاء متفرغين",
+    "Every Saudi journalist is dedicated to the profession of journalism": "كل صحفي سعودي متفرغ للمهنة الصحفية",
+    "Every accredited and full-time journalist to work as a reporter or office manager according to a written agreement for any of the local and non-local media outlets in exchange for a fixed salary and he does not practice any other profession": "كل صحفي معتمد ومتفرغ للعمل مراسلاً أو مدير مكتب بموجب اتفاق خطي لأي من الوسائل الإعلامية المحلية وغير المحلية نظير راتب ثابت ولا يمارس مهنة أخرى.",
+    "That the media in which he works shall fulfill all the conditions for a journalistic profession and the arts of journalistic editing, chiefly news.": "أن تتوافر في الوسيلة الإعلامية التي يعمل بها جميع شروط المهنة الصحفية وفنون التحرير الصحفي وعلى رأسها الخبر.",
+    "Part-time member": "العضو غير المتفرغ",
+    "Part-time members": "أعضاء غير متفرغين",
+    "Every Saudi journalist partially practices journalistic work": "كل صحغي سعودي يمارس العمل الصحفي بشكل جزئي",
+    "It includes Saudi journalists who occupy governmental or non-governmental jobs and who work alongside their perpetrators": "يشمل الصحفيين السعوديين الذين يشغلون وظائف حكومية أو غير حكومية ويمارسون إلى جانيها أعمالا صحفية",
+    "Affiliate member": "العضو المنتسب",
+    "Affiliate members": "أعضاء منتسبين",
+    "Every non-Saudi journalist residing in the Kingdom and working in the journalistic field under a work contract.": "كل صحفي غير سعودي يقيم في المملكة ويعمل في المجال الصحفي بموجب عقد عمل.",
+    "Statistics": "إحصائيات",
+    "Total members": "عدد الأعضاء",
+    "Memberships": "عدد العضويات",
+    "Conferences": "عدد المؤتمرات",
+    "Workshops": "عدد ورش العمل",
+    "Follow us on social media": "تابعنا علي مواقع التواصل الإجتماعي",
+    "SAR": "ريال سعودي",
+    "Annualy": "سنوياً",
+    "------------- Courses -----------": "",
+    "Upcoming courses": "الفعاليات القادمة",
+    "Recent courses": "الفعاليات المنتهية",
+    "Registered courses": "فعاليات مشترك بها",
+    "Courses menu": "قائمة الفعاليات",
+    "There are no events...": "لا توجد فعاليات ...",
+    "to": "إلى",
+    "Course time": "وقت الفعالية",
+    "User info": "معلومات المستخدم",
+    "User name": "اسم المستخدم",
+    "I agree to all terms": "موافق على جميع الشروط",
+    "Register for the course": "التسجيل في الفعالية",
+    "You are registered to the course": "أنت مسجل في الفعالية",
+    "You are attended to the course": "أنت حاضر في الفعالية",
+    "Go to my account": "الذهاب للحساب",
+    "Additional info": "معلومات إضافية",
+    "You registered successfully": "تم تسجيلك بنجاح",
+    "You attended successfully": "تم تسجيل حضورك بنجاح",
+    "Please register first": "يجب التسجيل أولًا",
+    "Attend for the course": "تحضير في الفعالية",
+    "Certificate": "الشهادة",
+    "Didn't attend course": "لم تحضر الفعالية",
+    "Please fill this questionnaire first": "برجاء ملئ هذا الإستبيان أولًا",
+    "Evaluate course": "تقييم الفعالية",
+    "Fill questionnaire": "ملئ الإستبيان",
+    "Answer saved": "تم حفظ الإجابة",
+    "This course doesn't have a certificate": "هذه الفعالية بدون شهادة",
+    "Validate certificate": "التحقق من الشهادة",
+    "Please enter the code on the certificate": "فضلا قم بادخال الرمز الموجود في الشهادة",
+    "Verify": "تحقق",
+    "Certificate with this code found successfully!": "الشهادة حقيقية أصدرناها بنجاح!",
+    "We don't have certificate with this code": "لم نصدر شهادة تحمل هذا الرمز",
+    "---------------- News --------------": "",
+    "Related news": "أخبار ذات صلة",
+    "News menu": "قائمة الأخبار",
+    "No news found...": "لا يوجد أخبار...",
+    "------------- Members -----------": "",
+    "Members login": "دخول الأعضاء",
+    "National ID number": "رقم الهوية الوطنية",
+    "Forgot your password?": "نسيت كلمة المرور؟",
+    "New membership": "تسجيل عضو جديد",
+    "You can register for membership through the following link": "يمكنك التسجيل في العضوية من خلال الرابط التالي",
+    "Click here to register": "إضغط هنا للتسجيل",
+    "Registration": "التسجيل",
+    "Contact info": "بيانات التواصل",
+    "Membership types": "فئات العضوية",
+    "Membership type": "فئة العضوية",
+    "Member info": "بيانات العضو",
+    "Login info": "بيانات الدخول",
+    "Review": "المراجعة",
+    "Terms and conditions:": "الشروط والأحكام:",
+    "Be at least 20 years old": "ألا يقل عمره عن 20 عاما",
+    "To practice his journalistic activity effectively and continuously, and to have spent in the profession full-time for a period of not less than a year": "أن يمارس نشاطه الصحفي ممارسة فعلية ومستمرة، ويكون قد أمضي في المهنة متفرغة مدة لا تقل عن سنة",
+    "To be practicing activity in one of the local media organizations or accredited as a correspondent for foreign media or working as a journalist for them": "أن يكون ممارسا للنشاط في إحدى المؤسسات الإعلامية المحلية أو معتمدا كمراسل لوسائل الإعلام الخارجية أو العمل الصحفي لصالحها",
+    "That he be practicing any of the journalistic activities detailed in Article (20) of the Regulations in accordance with the controls set by the General Assembly.": "أن يكون ممارسة لأي من الأعمال الصحفية الواردة تفصيلا في المادة (۴۰) من اللائحة وفقا لما حدده الجمعية العمومية من ضوابط",
+    "He should not have been convicted of a crime involving moral turpitude or dishonesty.": "ألا يكون قد صدر بحقه حكم في جريمة مخلة بالشرف أو الأمانة.",
+    "To submit the necessary supporting documents required by the authority.": "أن يقدم المستندات الثبوتية اللازمة التي تطلبها الهيئة.",
+    "I agree to all conditions": "أقر بموافقتي على جميع الشروط",
+    "National id number": "رقم الهوية أو الإقامة",
+    "Next": "التالي ←",
+    "Change": "تغيير",
+    "Mobile number": "رقم الجوال",
+    "Activated mobile number": "رقم الجوال المفعل",
+    "Send verification code": "إرسال رمز التفعيل",
+    "E.g. 501234567": "مثال: 501234567",
+    "Enter verification code": "أدخل رمز التفعيل",
+    "Activate": "تفعيل",
+    "This mobile number is already registered": "هذا الرقم مستخدم من قبل",
+    "Verification code for :mobile is :code to register an account on Saudi journalists association": "رقم التفعيل للجوال :mobile هو :code لتسجيل حساب جديد على منصة هيئة الصحفيين السعوديين",
+    "Mobile code is incorrect": "رمز الجوال غير صحيح",
+    "Please choost the type that suits you:": "فضلا قم باختيار الفئة التي تناسبك:",
+    "Amount": "المبلغ",
+    "Membership branch": "الفرع التابع للعضوية",
+    "Card delivery method": "طريقة استلام البطاقة",
+    "Pickup from branch": "الإستلام من الفرع",
+    "Delivery": "التوصيل",
+    "Delivery address": "عنوان التوصيل",
+    "Choose": "إختر",
+    "In the case of choosing delivery, 35.42 riyals will be added to the invoice value.": "في حالة اختيار التوصيل يتم اضافة 35.42 ريال لقيمة الفاتورة.",
+    "ID source": "مصدر الهوية",
+    "ID date": "تاريخ الهوية",
+    "Second name": "اسم الأب",
+    "Third name": "اسم الجد",
+    "In English": "بالإنجليزي",
+    "In Arabic": "بالعربي",
+    "Gender": "الجنس",
+    "Male": "ذكر",
+    "Female": "أنثى",
+    "Birthday": "تاريخ الميلاد",
+    "Birthday (Hijri)": "تاريخ الميلاد (هجري)",
+    "Birthday (Miladi)": "تاريخ الميلاد (ميلادي)",
+    "Nationality": "الجنسية",
+    "The last academic qualification": "آخر مؤهل دراسي",
+    "Specialization": "التخصص",
+    "Journalistic profession title": "مسمى المهنة الصحفية",
+    "Non-Journalistic profession title": "مسمى المهنة الغير صحفي",
+    "Employer": "الجهة",
+    "Newspaper type": "نوع الصحيفة",
+    "Paper newspaper": "صحيفة ورقية",
+    "Electronic newspaper": "صحيفة إلكترونية",
+    "Work phone": "هاتف العمل",
+    "Fax": "فاكس",
+    "Ext": "تحويلة",
+    "Post address": "العنوان البريدي",
+    "P.B": "ص.ب",
+    "Post code": "الرمز البريدي",
+    "Post city": "المدينة",
+    "I acknowledge my knowledge and commitment to all terms and conditions, and I also undertake that all data provided are correct personal data, and I bear all responsibility for that.": "وأقر باطلاعي والتزامي بكافة الشروط والأحكام ، كما وأتعهد بأن جميع البيانات المقدمة هي بيانات شخصية صحيحة وأتحمل كافة المسئولية إتجاه ذلك",
+    "Membership ": "العضوية",
+    "My profile": "بياناتي",
+    "Technical support": "الدعم الفني",
+    "Technical Support": "الدعم الفني",
+    "Logout": "تسجيل خروج",
+    "Complete information": "إستكمال البيانات",
+    "To request a membership, the required information must be completed": "لطلب العضوية يجب استكمال البيانات المطلوبة",
+    "Completion percentage": "نسبة الاكتمال",
+    "Required": "المطلوب",
+    "Profile picture": "الصورة الشخصية",
+    "A copy of the status or residence card": "صورة لبطاقة الأحوال أو الإقامة",
+    "A statement from the employer regarding the current press position": "إفادة من جهة العمل بمسمى الوظيفة الصحفية الحالية",
+    "Newspaper license": "ترخيص الصحيفة",
+    "Job contract": "عقد العمل",
+    "Set the type of newspaper in the data": "تسجيل نوع الصحيفة في بيانات",
+    "Biography, experiences, fields, and languages": "السيرة الذاتية والخبرات والمجالات واللغات",
+    "Upload": "رفع",
+    "Complete": "إستكمال",
+    "My information": "بياناتي",
+    "Experiences & Fields": "الخبرات والمجالات",
+    "Change password": "تغيير كلمة المرور",
+    "ID photo": "صورة الهوية",
+    "Employment statement": "إفادة العمل",
+    "The data cannot be modified after the approval of the branch": "لا يمكن تعديل البيانات بعد موافقة الفرع",
+    "Your information has been updated successfully": "تم تعديل بياناتك بنجاح",
+    "CV, experiences, fields and languages": "السيرة الذاتية والخبرات والمجالات واللغات",
+    "Experiences": "الخبرات",
+    "Experience": "الخبرة",
+    "Years": "السنوات",
+    "Add": "إضافة",
+    "Your info can't be modified after branch approval": "لا يمكن تعديل البيانات بعد موافقة الفرع",
+    "Areas in which you would like to contribute": "المجالات التي ترغب بالمساهمة فيها",
+    "The languages you are good at": "اللغات التي تجيدها",
+    "Level": "المستوى",
+    "Important instructions": "تعليمات هامة",
+    "The image must be of good quality": "يجب أن تكون الصورة ذات نوعية جيدة",
+    "Image extension must be only jpg, gif or png": "يجب أن يكون امتداد الصورة jpg أو gif أو png فقط",
+    "Maximum picture size is 2 Migabytes": "الحجم الأقصى للصورة هو 2 ميغا بايت",
+    "Photo cannot be modified after branch approval": "لا يمكن تعديل الصورة بعد موافقة الفرع",
+    "Old password": "كلمة المرور القديمة",
+    "New password": "كلمة المرور الجديدة",
+    "Password is incorrect": "كلمة المرور غير صحيحة",
+    "Request type": "نوع الطلب",
+    "Request date": "تاريخ الطلب",
+    "Request status": "حالة الطلب",
+    "Start date": "بداية الإشتراك",
+    "End date": "نهاية الإشتراك",
+    "Status": "الحالة",
+    "Waiting paying": "بإنتظار الدفع",
+    "Waiting admin approval": "بإنتظار موافقة الأدمن",
+    "Waiting branch approval": "بإنتظار موافقة الفرع",
+    "Didn't complete info": "لم يستكمل البيانات",
+    "Active": "فعال",
+    "Expired": "منتهية",
+    "Membership refused": "العضوية مرفوضة",
+    "Complete the payment process": "اتمام عملية الدفع",
+    "Pay": "إدفع",
+    "Payment method": "طريقة الدفع",
+    "The amount is not refundable": "المبلغ غير مسترجع",
+    "The Authority has the right to cancel your subscription": "يحق للهيئة إلغاء اشتراكك",
+    "The subscription period is until the end of the calendar year": "تكون مدة الاشتراك إلى نهاية السنة الميلادية",
+    "Amount details:": "تفاصيل المبلغ:",
+    ":amount riyals for :type membership": ":amount ريال لعضوية :type",
+    ":amount riyals for the card delivery fee": ":amount ريال رسوم توصيل البطاقة",
+    "The process is pending please verify and contact us": "العملية معلقة برجاء التحقق والتواصل معنا",
+    "Payment has been completed": "تمت عملية الدفع",
+    "Payment request expired. Please try again or contact us.": "إنتهت صلاحية الطلب، برجاء المحاولة مرة أخرى أو تواصل معنا",
+    "Transaction declined. Payment was not completed": "العملية مرفوضة لم تتم عملية الدفع",
+    "Membership card": "بطاقة العضوية",
+    "Resend": "إعادة إرسال",
+    "Subscription requested successfully": "تم إعادة طلب العضوية بنجاح",
+    "Leave empty if you don't want to change": "أتركها فارغة إذا كنت لا تريد تغييرها",
+    "------------- Subscribers -----------": "",
+    "Register a new subscriber": "تسجيل متدرب جديد",
+    "How did you get to know the authority?": "كيف تعرفت على الهيئة؟",
+    "Place of residence": "مكان الإقامة",
+    "City": "المدينة",
+    "I undertake that all data are correct, if otherwise the subscription will be suspended": "أتعهد بأن جميع البيانات صحيحة ، وإن كانت خلاف ذلك سيتم إيقاف الاشتراك",
+    "Subscribers login": "دخول المتدربين",
+    "login": "دخول",
+    "Register new subscriber": "تسجيل متدرب جديد",
+    "You can register as a new subscriber through the following link": "يمكنك التسجيل كمتدرب جديد من خلال الرابط التالي",
+    "male": "ذكر",
+    "female": "أنثى",
+    "Email has been verified successfully": "تم تفعيل البريد الالكتروني بنجاح",
+    "Email activation": "تفعيل البريد الإلكتروني",
+    "Didn't receive the activation code? Look in the junk mailbox or you can request activation again": "لم يصلك كود التفعيل؟ إبحث في صندوق الرسائل الغير مهمة أو يمكنك طلب التفعيل مرة أخرى",
+    "Resend activation mail": "إعادة إرسال تفعيل البريد",
+    "Email verification has been sent": "تم إرسال بريد التفعيل",
+    "------------- Volunteers -----------": "",
+    "Volunteers login": "دخول المتطوعين",
+    "Register new volunteer": "تسجيل متطوع جديد",
+    "You can register as a new volunteer through the following link": "يمكنك التسجيل كمتطوع جديد من خلال الرابط التالي",
+    "Register a new volunteer": "تسجيل متطوع جديد",
+    "Volunteering fields": "مجالات التطوع",
+    "Volunteer in": "أرغب التطوع في",
+    "Photography": "التصوير الفوتوغرافي",
+    "Videography": "تصوير الفيديو",
+    "Cinematography": "التصوير السينمائي",
+    "Editing - media platforms - documentation": "التحرير - المنصات الإعلامية -التوثيق",
+    "Coverages": "التغطيات",
+    "Presentation": "التقديم",
+    "Digital content industry": "صناعة المحتوى الرقمي",
+    "Montage": "المونتاج",
+    "Social media": "السوشل ميديا",
+    "Media marketing": "التسويق الاعلامي",
+    "Editorial management": "إدارة التحرير",
+    "Field Editing Command": "قيادة التحرير الميداني",
+    "Management of meetings and seminars": "إدارة الملتقيات والندوات",
+    "Media training": "التدريب الاعلامي",
+    "National ID": "رقم الهوية أو الاقامة",
+    "Marital status": "الحالة الاجتماعية",
+    "Governorate": "المحافظة",
+    "National address": "العنوان الوطني",
+    "Job title": "الصفة المهنية",
+    "Educational level": "المرحلة الدراسية",
+    "Volunteering experiences": "الخبرات التطوعية",
+    "Complete your profile and add your branch": "أكمل ملفك الشخصي واضف الفرع",
+    "------------- Nationalities -----------": "",
+    "Saudi Arabian": "سعودي",
+    "Guinean": "غيني",
+    "Armenian": "أرميني",
+    "Estonian": "إستوني",
+    "Congolese": "كونغولي",
+    "Afghan": "أفغانستاني",
+    "German": "ألماني",
+    "Emirati": "إماراتي",
+    "Italian": "إيطالي",
+    "Ethiopian": "اثيوبي",
+    "Argentine": "ارجنتيني",
+    "Jordanian": "اردني",
+    "Eritrean": "اريتيري",
+    "Azerbaijani": "ازربيجاني",
+    "Spanish": "اسباني",
+    "Australian": "استرالي",
+    "Central African": "افريقي أوسطى",
+    "Ecuadorian": "اكوادوري",
+    "Albanian": "الباني",
+    "Barbadian": "الجزر الباربادوسية",
+    "U.S. Minor Outlying Islander": "الجزر النائية الصغرى للولايات المتحدة",
+    "Mexican": "المكسيك",
+    "American": "امريكي",
+    "Antiguan": "انتيجاني",
+    "Angolan": "انجولي",
+    "Indonesian": "اندونيسي",
+    "Anguillian": "انغولي",
+    "Uruguayan": "اوروغواني",
+    "Uzbek": "اوزباكستاني",
+    "Ugandan": "اوغاندي",
+    "Ukrainian": "اوكرايني",
+    "Iranian": "ايراني",
+    "Irish": "ايرلاندي",
+    "Icelander": "ايسلاندي",
+    "Paraguayan": "باراغواي",
+    "Pakistani": "باكستاني",
+    "Palauan": "بالواني",
+    "Bahraini": "بحريني",
+    "Brazilian": "برازيلي",
+    "Portuguese": "برتغالي",
+    "Bermudian": "برمودي",
+    "Bruneian": "بروني",
+    "British": "بريطاني",
+    "Belgian": "بلجيكي",
+    "Bulgarian": "بلغاري",
+    "Belizean": "بليزي",
+    "Bangladeshi": "بنجلاديشي",
+    "Panamanian": "بنمي",
+    "Beninese": "بنيني",
+    "Bhutanese": "بوتاني",
+    "Botswanan": "بوتسواني",
+    "Puerto Rican": "بورتوريكي",
+    "Burkinabe": "بوركيني فاصو",
+    "Burundian": "بوروندي",
+    "Bosnian": "بوسني",
+    "Bolivian": "بوليفي",
+    "French Polynesian": "بولينزي فرنسي",
+    "Peruvian": "بيروي",
+    "Belarusian": "بيلاروسي",
+    "Thai": "تايلندي",
+    "Taiwanese": "تايواني",
+    "Tobagonian": "تباغوني",
+    "Turkmen": "تركماني",
+    "Turk": "تركيا",
+    "Chadian": "تشادي",
+    "Czech": "تشيكي",
+    "Chilean": "تشيلي",
+    "Tanzanian": "تنزاني",
+    "Togolese": "توجوي",
+    "Tuvaluan": "توفالي",
+    "Tongan": "تونجا",
+    "Tunisian": "تونسي",
+    "Gabonese": "جابوني",
+    "Jamaican": "جامايكي",
+    "Grenadian": "جرينادي",
+    "Algerian": "جزائري",
+    "Aruban": "جزر اروبا",
+    "Dutch Antillean": "جزر الانتيل الهولندية",
+    "Bahamian": "جزر البهاما",
+    "Guadeloupian": "جزر الجوادلوب",
+    "Virgin Islander": "جزر العذراء",
+    "British Virgin Islander": "جزر العذراء البريطانية",
+    "Comorian": "جزر القمر",
+    "Christmas Islander": "جزر الكريسماس",
+    "Martiniquai": "جزر المارتينيك",
+    "Miquelonnais": "جزر المارتينيك",
+    "Marshallese": "جزر المارشال",
+    "Maldivian": "جزر المالديف",
+    "Mauritian": "جزر الموريشيوس",
+    "Turks and Caicos Islander": "جزر تركس وكايكوس",
+    "Caymanian": "جزر سليمان",
+    "Solomon Islander": "جزر سليمان",
+    "Seychellois": "جزر سيشيل",
+    "Falkland Islander": "جزر فوكلاند",
+    "Cook Islander": "جزر كوك",
+    "Northern Marianan": "جزر ماريانا الشمالي",
+    "Réunionese": "جزيرة ريونيون",
+    "Saint Lucian": "جزيرة سانت لوسيا",
+    "Saint Helenian": "جزيرة سانت هيلينا",
+    "Guamanian": "جزيرة غوام",
+    "Montserratian": "جزيرة مونتسرات",
+    "Norfolk Islander": "جزيرة نورفولك",
+    "South African": "جنوبي افريقي",
+    "Georgian": "جورجي",
+    "Djiboutian": "جيبوتي",
+    "Danes": "دنماركي",
+    "Dominican": "دومانيكي",
+    "Rwandan": "رواندي",
+    "Russian": "روسي",
+    "Romanian": "روماني",
+    "Zambian": "زامبي",
+    "Zimbabwean": "زيمبابوي",
+    "Swiss": "سويسري",
+    "Santomean": "ساؤو تومي",
+    "Ivoirian": "ساحلي عاجي",
+    "Samoan": "سامواي",
+    "American Samoan": "ساموي امريكي",
+    "Sri Lankan": "سري لانكي",
+    "Gibraltarian": "سكان منطقة جبل طارق",
+    "Salvadoran": "سلفادوري",
+    "Slovak": "سلوفاكي",
+    "Slovenian": "سلوفيني",
+    "Singaporean": "سنغافوري",
+    "Senegalese": "سنغالي",
+    "Sudanese": "سوداني",
+    "Syrian": "سوري",
+    "Surinamer": "سورينامي",
+    "Swede": "سويدي",
+    "Swazi": "سويسري",
+    "Sierra Leonean": "سيراليوني",
+    "Serbian": "صربي",
+    "Somali": "صومالي",
+    "Chinese": "صيني",
+    "Tajikistani": "طاجيكستاني",
+    "Tokelauan": "طوكيلاوي",
+    "Iraqi": "عراقي",
+    "Omani": "عماني",
+    "Gambian": "غامبي",
+    "Ghanaian": "غاني",
+    "Guatemalan": "غواتيمالي",
+    "Guyanese": "غوباني",
+    "Papuans": "غينيا الجديدة",
+    "Equatorial Guinean": "غيني استوائي",
+    "French Guianese": "غيني فرنسي",
+    "Vatican": "فاتيكاني",
+    "Faroese": "فاروسي",
+    "Futunan": "فانتاني",
+    "French": "فرنسي",
+    "Filipino": "فلبيني",
+    "Palestinian": "فلسطيني",
+    "Venezuelan": "فنزويلي",
+    "Finnish": "فنلندي",
+    "Vietnamese": "فيتنامي",
+    "Fijian": "فيجي",
+    "Cypriot": "قبرصي",
+    "Kyrgyzstani": "قرغيستاني",
+    "Polish": "قطبي",
+    "Qatari": "قطري",
+    "Kazakhstani": "كازاخستاني",
+    "New Caledonian": "كاليدونيا الجديدة",
+    "Cameroonian": "كاميروني",
+    "Croatian": "كرواتي",
+    "Kiribati": "كريباتي",
+    "Cambodian": "كمبودي",
+    "Canadian": "كندي",
+    "Cuban": "كوبي",
+    "South Korean": "كوري جنوبي",
+    "North Korean": "كوري شمالي",
+    "Costa Rican": "كوستاريكي",
+    "Colombian": "كولومبي",
+    "Kuwaiti": "كويتي",
+    "Cape Verdean": "كيب فيردي",
+    "Kenyan": "كيني",
+    "Latvian": "لاتفي",
+    "Lebanese": "لبناني",
+    "Luxembourger": "لوكسمبورغي",
+    "Libyan": "ليبي",
+    "Liberian": "ليبيري",
+    "Lithuanian": "ليتواني",
+    "Liechtensteiner": "ليختنشتايني",
+    "Macedonian": "ماكادوني",
+    "Malagasy": "مدغشقر",
+    "Maltese": "مالطي",
+    "Malian": "مالي",
+    "Malaysian": "ماليزي",
+    "Mongolian": "مانغولي",
+    "Hungarian": "مجري",
+    "Egyptian": "مصري",
+    "Moroccan": "مغربي",
+    "Malawian": "ملاوي",
+    "Mauritanian": "موريتاني",
+    "Mozambican": "موزمبيقي",
+    "Moldovan": "مولدوفي",
+    "Monacan": "موناكي",
+    "Montenegrin": "مونتينيغروي",
+    "Nauruan": "ناوروي",
+    "Myanmarian": "ميانمار",
+    "Ni-Vanuatu": "ناي فاتوي",
+    "Norwegian": "نرويجي",
+    "Austrian": "نمساوي",
+    "Nepalese": "نيبالي",
+    "Nigerien": "نيجيري",
+    "Nigerian": "نيجيري",
+    "Nicaraguan": "نيكاراغوي",
+    "New Zealander": "نيوزيلاندي",
+    "Niuean": "نيوني",
+    "Haitian": "هايتي",
+    "Honduran": "هندوراسي",
+    "Indian": "هندي",
+    "Dutch": "هولندي",
+    "Japanese": "ياباني",
+    "Yemeni": "يمني",
+    "Greek": "يوناني",
+    "------------- USERS FOOTER -----------": "",
+    "Important links": "روابط تهمك",
+    "Ministry of Information": "وزارة الإعلام",
+    "Audiovisual organization": "هيئة المرئي والمسموع",
+    "Saudi press agency": "وكالة الأنباء السعودية",
+    "Radio & TV organization": "هيئة الإذاعة والتلفزيون",
+    "Contact us": "تواصل معنا",
+    "Our location": "موقعنا:",
+    "Follow Us": "تابعنا",
+    "Terms of service": "شروط الخدمة",
+    "Privacy policy": "سياسة الخصوصية",
+    "Call us": "اتصل بنا",
+    "All rights reserved to Saudi Journalists Association": "جميع الحقوق محفوظة لهيئة الصحفيين السعوديين",
+    "Download": "تحميل",
+    "Import": "إستيراد",
+    "Members imported successfully": "تم إستيراد الأعضاء بنجاح",
+    "Previous": "السابق",
+    "Current page": "الصفحة الحالية",
+    "Page": "الصفحة",
+    "Age": "العمر",
+    "Waiting approval": "بإنتظار الموافقة",
+    "Transferred": "منقول",
+    "Member transfer request deleted successfully": "تم حذف الطلب بنجاح",
+    "Member transfer request disapproved successfully": "تم رفض الطلب بنجاح",
+    "Disapproved": "مرفوض",
+    "Members statistics": "إحصائيات الأعضاء",
+    "------------- Elecions -----------": "",
+    "Elections": "الإنتخابات",
+    "Create candidate": "إضافة مرشح",
+    "Candidates management": "إدارة المرشحين",
+    "Votes": "الأصوات",
+    "Candidate": "المرشح",
+    "Candidates": "المرشحين",
+    "This field is required": "هذا الحقل مطلوب",
+    "Candidate created successfully": "تم تسجيل المرشح بنجاح",
+    "Candidate deleted successfully": "تم حذف المرشح بنجاح",
+    "You have successfully participated in the elections": "تم الاشتراك بنجاح في الانتخابات",
+    "Elections for the Saudi Journalists Association": "انتخابات هيئة الصحفيين السعوديين",
+    "Vote": "تصويت",
+    "Voted": "تم التصويت",
+    "Your vote has been registered successfully": "تم تسجيل تصويتك بنجاح"
+}
